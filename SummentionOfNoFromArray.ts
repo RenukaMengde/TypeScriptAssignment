@@ -2,7 +2,7 @@
 1. Write typescript program which contains one function named as Summation. That function should accept
 array of number and returns summation of all numbers from array.
 Input : 23 6 7 4 5 7
-Output : Maximum No is 89
+Output : Addition is 52
 */
 
 var ArrayOfNum : number[] = [23, 6, 7, 4, 5, 7];
